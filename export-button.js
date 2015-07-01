@@ -68,7 +68,7 @@ $("#export_people").click(function() {
     return table.map(function(lines){
       return lines.map(function(cell){
         return fFormatter(cell);
-      }).join(';');
+      }).join(',');
     }).join('\n');
   };
 
