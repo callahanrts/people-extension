@@ -3,7 +3,7 @@
 
   "name": "Mixpanel People Export",
   "description": "Export mixpanel people queries to CSV.",
-  "version": "1.0.0",
+  "version": "1.0.1",
 
   "content_scripts": [{
     "matches": ["https://*.mixpanel.com/*explore*"],
