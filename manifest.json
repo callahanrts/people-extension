@@ -6,7 +6,7 @@
   "version": "1.0.0",
 
   "content_scripts": [{
-    "matches": ["https://*.mixpanel.com/*"],
+    "matches": ["https://*.mixpanel.com/*explore*"],
     "js": ["injector.js"]
   }],
 
