@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Mixpanel People Export",
-  "description": "Export mixpanel people queries to CSV. Wraps the mixpanel_export_people bookmarklet https://github.com/FGRibreau/mixpanel_export_people to add a button to the mixpanel people page",
+  "description": "Export mixpanel people queries to CSV.",
   "version": "1.0.0",
 
   "content_scripts": [{
